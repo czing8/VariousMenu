@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  VariousMenu
+//
+//  Created by Vols on 2017/2/7.
+//  Copyright © 2017年 vols. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Masonry.h"
+#import "Constant.h"
+#import "UIColor+VAdd.h"
+#import "UIView+VAdd.h"
+
+#endif /* PrefixHeader_pch */
